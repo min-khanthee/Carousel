@@ -1,6 +1,12 @@
+body {
+  text-align: center;
+}
+
 .carousel {
   max-width: 600px;
   position: relative;
+  margin: 100px;
+  align-items: center;
 }
 
 .carousel .carousel-item,
