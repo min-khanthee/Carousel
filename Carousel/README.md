@@ -1,3 +1,3 @@
 # Carousel
 
-A carousel of images created in Javascript. 
+A simple carousel of images created using Javascript. 
